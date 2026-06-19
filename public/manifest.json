@@ -1,0 +1,26 @@
+{
+  "short_name": "الباخرة",
+  "name": "تطبيق الباخرة - إدارة الموارد البشرية والوثائق الرقمية",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "/logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1b325f",
+  "theme_color": "#1b325f",
+  "display": "standalone",
+  "orientation": "portrait"
+}

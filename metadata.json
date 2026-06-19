@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق الباخرة",
+  "description": "تطبيق متكامل لإدارة الموارد البشرية والوثائق الرقمية وتتبع فترات الصلاحية لمؤسسة عبد العزيز محمد الحسني",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
